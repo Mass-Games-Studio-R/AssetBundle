@@ -1,0 +1,271 @@
+ManifestFileVersion: 0
+CRC: 1302194354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45eadcaa8d23964f9496a7045c5cf18e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc79fc02e62120aa333c63eda437a370
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdfdd7c0f464d4dc1af13c143f933dcc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce1939221ccca432f8bdb20053a8cb1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d044b882f76ab4ee2b275709f30c3b5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96389d749a7664d0792c7ac17e82c7f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdc2a576d107b4491b7537946558cce3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a97b638c14fd4360b223e208e0b09e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5390f38f1ba7479097df7ab79057107, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a401dec83426045968c37ca89a6d3fc1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2967779f6b7d4b76b3c04840d72453a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a331a7adc2f448cb8e7bed33777d3a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53cb359a13d4a43b58b4989239192207, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5501961b896604323805b8d026a1ebca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c107854b37ae448c89fc3956ad54f8dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4feda99b32f9945ca9591ffdb7b218b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8695769f941314ccdb8a771d69cab9fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 199df3ff45efe4aaca47f16e312d12c9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FruitSwipeMatch3Kit/Materials/UI/Point.mat
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/CoinIcon.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Boat.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Duck3.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/AvatarBalloon/BunnyEyesIdle.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/CowEnter.anim
+- Assets/FruitSwipeMatch3Kit/Fonts/OleoScriptSwashCaps-Regular_BorderRed.asset
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Banana.controller
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/Sparkle3.overrideController
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/PenguinBig.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelButtons/ButtonBlue.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/Bunny/EarRight.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/CowTale.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/PointParticle.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Banana.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/CowTale3.controller
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Cloud3.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/Bunny/EyesClosed.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelButtons/Star.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/Bunny/EarLeft.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/CowTale2.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/SparkleIdle.anim
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/AvatarMask.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/PenguinIdle.anim
+- Assets/FruitSwipeMatch3Kit/Prefabs/UserInterface/BuyCoinsWidget.prefab
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelButtons/ButtonPink.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Duck1.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/LifeIconGrey.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelButtons/GreyStar.png
+- Assets/FruitSwipeMatch3Kit/Resources/Configuration/GameConfiguration.asset
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Duck2.overrideController
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Chicken2.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/Sparkle.png
+- Assets/FruitSwipeMatch3Kit/Prefabs/UserInterface/LevelAvatar.prefab
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Boat1Idle.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/PenguinEnter.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Penguin1.overrideController
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/WhiteSquare.png
+- Assets/FruitSwipeMatch3Kit/Prefabs/Sounds/SoundFx.prefab
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Duck.controller
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Duck2.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Bird.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/WindmillIdle.anim
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMap/LevelMap0.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Smoke.controller
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/WindmillDot.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Boat1.controller
+- Assets/BundleAssets/mynewbundle/Level.prefab
+- Assets/FruitSwipeMatch3Kit/Animations/Buttons/Press.anim
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/PopupOpenButton.wav
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMap/LevelMap2.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Chicken2.controller
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/PenguinSmall.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Penguin.controller
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/BeachUmbrellaIdle.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Chicken1.controller
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/BeachUmbrellaEnter.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Cow3.overrideController
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/AdsIcon.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/BeachUmbrellaOrange.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/AvatarBorder.png
+- Assets/FruitSwipeMatch3Kit/Fonts/OleoScriptSwashCaps-Bold__BorderBlue.asset
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/BeachUmbrellaEnter2.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/BeachUmbrella3.overrideController
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/PenguinEnter1.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/SmokeIdle.anim
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/BackIcon.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMap/LevelMap3.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Boat2.controller
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/BeachUmbrellaEnter3.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/SparkleEnter3.anim
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Cow1.png
+- Assets/FruitSwipeMatch3Kit/Prefabs/UserInterface/BuyLivesWidget.prefab
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/CowTale3.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/CowTale2.controller
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMap/LevelMap4.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/BeachUmbrellaBlue.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/AvatarBalloon/Bunny.controller
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/BirdIdle.anim
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/Bunny/Paws.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/TopCover.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/LifeCointsAmountBackground.png
+- Assets/FruitSwipeMatch3Kit/Fonts/OleoScriptSwashCaps-Bold SDF.asset
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/AwardPopup.wav
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Cow2.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/Avatar.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Smoke.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMap/LevelMap1.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/LifeIcon.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Duck3.overrideController
+- Assets/FruitSwipeMatch3Kit/Resources/Systems/CoinsSystem.asset
+- Assets/FruitSwipeMatch3Kit/Fonts/OleoScriptSwashCaps-Bold__BorderPink.asset
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/WinStarPop.wav
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/BananaIdle.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Duck3Enter.anim
+- Assets/FruitSwipeMatch3Kit/Animations/Buttons/Button.controller
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/ButtonBack.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/SnowmanIdle.anim
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/BalloonShadow.png
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/BuyCoinsButton.wav
+- Assets/FruitSwipeMatch3Kit/Materials/UI/Cloud1.mat
+- Assets/FruitSwipeMatch3Kit/Fonts/OleoScriptSwashCaps-Regular SDF.asset
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Cow3Enter.anim
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Cloud2.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/CowTale1.controller
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMap/LevelMapEnd.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/AvatarBalloon/BunnyIdle.anim
+- Assets/FruitSwipeMatch3Kit/Resources/Systems/LivesSystem.asset
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Cow.controller
+- Assets/FruitSwipeMatch3Kit/Fonts/OleoScriptSwashCaps-Bold.ttf
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/DuckEnter.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Windmill.controller
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/PopupCloseButton.mp3
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/Sparkle.controller
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Boat2Idle.anim
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/WindmillPole.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/CowTale1.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/DuckIdle.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/SparkleEnter.anim
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/Bunny/Head.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Chicken1Idle.anim
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/MoreButton.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelButtons/ButtonGrey.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Cow2Enter.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Duck2Enter.anim
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Chicken2Idle.anim
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/BuyButton.wav
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/Win.wav
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/Bunny/EyesOpen.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Bird.controller
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/Sparkle2.overrideController
+- Assets/FruitSwipeMatch3Kit/Fonts/OleoScriptSwashCaps-Regular.ttf
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/SparkleEnter2.anim
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Chicken1.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Snowman.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/MoreButtonGrey.png
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Cloud1.png
+- Assets/FruitSwipeMatch3Kit/Materials/UI/Cloud2.mat
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/Button.wav
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/Cow3.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Cow2.overrideController
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/BeachUmbrella.controller
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/PopupClose.wav
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelButtons/Shadow.png
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/CowIdle.anim
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/Rain.mp3
+- Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/UI/Balloon.png
+- Assets/FruitSwipeMatch3Kit/Materials/UI/Cloud3.mat
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/Bunny/Shadow.png
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/OutOfMovesPopup.wav
+- Assets/FruitSwipeMatch3Kit/Sprites/LevelScene/LevelMapAnimations/BeachUmbrellaPink.png
+- Assets/FruitSwipeMatch3Kit/Prefabs/UserInterface/LevelButton.prefab
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/Lose.wav
+- Assets/FruitSwipeMatch3Kit/Sprites/Popups/BuyLivesPopup/LifeIcon.png
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/LevelGoalsPopup.wav
+- Assets/FruitSwipeMatch3Kit/Sounds/Menu/PopupOpen.wav
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/AvatarBalloon/BunnyEyes.controller
+- Assets/FruitSwipeMatch3Kit/Sounds/Collections/Menu.asset
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/Snowman.controller
+- Assets/FruitSwipeMatch3Kit/Animations/LevelScene/LevelMap/BeachUmbrella2.overrideController
+Dependencies: []

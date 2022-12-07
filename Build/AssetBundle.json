@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Digi Cade",
+"productVersion": "0.1",
+"dataUrl": "AssetBundle.data.unityweb",
+"wasmCodeUrl": "AssetBundle.wasm.code.unityweb",
+"wasmFrameworkUrl": "AssetBundle.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "AssetBundle.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}

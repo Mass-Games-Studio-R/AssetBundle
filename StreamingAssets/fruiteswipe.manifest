@@ -1,0 +1,105 @@
+ManifestFileVersion: 0
+CRC: 1908801278
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4af34a4b1d2c5a15d4007de3de6010c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 93360ab42b87bee330cdd40a382d92c4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dbc851509fcb34dffa2a934a32569706, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdfdd7c0f464d4dc1af13c143f933dcc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce1939221ccca432f8bdb20053a8cb1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdc2a576d107b4491b7537946558cce3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a97b638c14fd4360b223e208e0b09e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a401dec83426045968c37ca89a6d3fc1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2842c2934a9946cd9e4d2631c9a2215, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2967779f6b7d4b76b3c04840d72453a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a331a7adc2f448cb8e7bed33777d3a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53cb359a13d4a43b58b4989239192207, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3625101b65ef74d79b9ade9634c06c26, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c107854b37ae448c89fc3956ad54f8dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 616b206b4eef1421aabe38e89699dbaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4feda99b32f9945ca9591ffdb7b218b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea182acd2b26a4be3ab0606dbd147f4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8695769f941314ccdb8a771d69cab9fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundleAssets/mynewbundle/FruiteSwipe.prefab
+Dependencies: []
